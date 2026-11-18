@@ -20,7 +20,7 @@ A C++ implementation of a compiler front-end for the B-Minor programming languag
 ## Compilation
 
 ```bash
-g++ -std=c++17 Simplified_BMinor.cpp -o bminor
+g++ -std=c++17 phase-1.cpp -o bminor
 ```
 
 ## Execution
